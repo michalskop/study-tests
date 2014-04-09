@@ -7,7 +7,7 @@
 {/block}
 
 {block name=content}
-    <script src="./js/test2.js"></script>
+    <script src="./js/test3.js"></script>
     <p>
       <div><em>Úkol máte splněn, pokud alespoň 80 % otázek odpovíte správně, z toho povinné je vaše jméno(-:</em><div>
       <div><em>Úkol můžete vyplňovat opakovaně. Počítá se nejlepší vyplnění.</em></div>
